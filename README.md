@@ -69,7 +69,7 @@ Overall, the game can be a fun and engaging way to develop a variety of soft ski
 
 Clone the repository to your local machine by running the following command in your terminal:
 
-git clone https://github.com/your-username/treasure-hunt-game.git
+git clone https://github.com/SaurabhJoshi3823/EscapeTheJungle.git 
 
 Open the project folder in your preferred code editor.
 
